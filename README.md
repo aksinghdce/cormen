@@ -1,3 +1,4 @@
+# Update: The work on preparation for most rewarding programming jobs in the market continues [here](https://github.com/aksinghdce/algorithms_datastructures_practice)
 #The book Cormen studied and presented for educational purposes
 #The book is divided into chapters.
 #Chapter 1: Assumes that you are already aware of the importance of studying algorithms. The attempt is to teach and learn algorithms in a disciplined manner.
